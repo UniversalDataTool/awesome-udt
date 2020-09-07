@@ -10,6 +10,6 @@ Projects that help you use the Universal Data Tool.
 ## Converters
 
 * [Convert UDT Files to Anything](https://universaldatatool.com/convert) - Convert UDT files via an easy web interface (offical)
-* [udt-to-png](https://github.com/UniversalDataTool/udt-to-png) - Convert UDT files into png masks
+* [udt-to-png](https://github.com/UniversalDataTool/udt-to-png) - Convert UDT files with image segmentations into png masks
 * [udt-to-labelme](https://github.com/UniversalDataTool/udt-to-labelme) - Convert UDT files into labelme files
-* [udt-to-svg](https://github.com/UniversalDataTool/udt-to-svg)
+* [udt-to-svg](https://github.com/UniversalDataTool/udt-to-svg) - Convert UDT files with image segmentations into svgs
