@@ -16,4 +16,4 @@ Projects that help you use the Universal Data Tool.
 
 ## Datasets
 
-* [udt-dataset-cats-and-dogs](https://github.com/UniversalDataTool/udt-dataset-cats-and-dogs) - Dataset of cat and dog images from COCO
+* [udt-dataset-cats-and-dogs](https://github.com/UniversalDataTool/udt-dataset-cats-and-dogs) - Dataset of cat and dog images with labels from COCO
