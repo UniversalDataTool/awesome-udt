@@ -13,3 +13,7 @@ Projects that help you use the Universal Data Tool.
 * [udt-to-png](https://github.com/UniversalDataTool/udt-to-png) - Convert UDT files with image segmentations into png masks
 * [udt-to-labelme](https://github.com/UniversalDataTool/udt-to-labelme) - Convert UDT files into labelme files
 * [udt-to-svg](https://github.com/UniversalDataTool/udt-to-svg) - Convert UDT files with image segmentations into svgs
+
+## Datasets
+
+* [udt-dataset-cats-and-dogs](https://github.com/UniversalDataTool/udt-dataset-cats-and-dogs)
